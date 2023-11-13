@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "MiPad4",
-      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm660.git",
+      "repo": "https://github.com/gssdromen/android_kernel_xiaomi_sdm660.git",
       "branch": "lineage-20",
       "device": "clover",
       "defconfig": "vendor/xiaomi/sdm660_defconfig"
