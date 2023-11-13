@@ -5,7 +5,7 @@
       "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm660.git",
       "branch": "lineage-20",
       "device": "clover",
-      "defconfig": "vendor/sdm660"
+      "defconfig": "vendor/xiaomi/sdm660_defconfig"
     },
     "toolchains": [
       {
